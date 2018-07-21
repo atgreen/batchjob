@@ -1,4 +1,4 @@
-FROM centos
+FROM rhel
 
 MAINTAINER anthony@atgreen.org
 
